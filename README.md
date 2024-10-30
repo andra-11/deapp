@@ -407,3 +407,4 @@ Since you've been minting the tokens to yourself (i.e. your first account at web
 That's it for functionality.  I'm going to leave it to the reader to implement account balances and transfers.  Next we'll tackle deploying to Ropsten.
 # deapp
 # deapp
+# deapp
